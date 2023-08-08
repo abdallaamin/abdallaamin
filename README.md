@@ -75,9 +75,8 @@ Want to know more about me? [Check out my portfolio.](https://abdallaamin.com)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaamin&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-## what i am listeneing to at the momment on Spotify [![SpotifyLogo](https://cdn3.emoji.gg/emojis/SpotifyLogo.png)](https://emoji.gg/emoji/SpotifyLogo)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bwjmkpj6vomuk7ac3zmtd64wce&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31bwjmkpj6vomuk7ac3zmtd64wce&redire
-
+## what i am listeneing to at the momment on Spotify 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31bwjmkpj6vomuk7ac3zmtd64wce&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)]
 
 
 

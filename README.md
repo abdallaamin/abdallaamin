@@ -3,20 +3,18 @@
 
 Want to know more about me? [Check out my portfolio.](https://abdallaamin.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/abdallaamin/abdallaamin)](https:abdallaamin.com)
-[![GitLab Badge](https://img.shields.io/badge/GitLab-Profile-orange?logo=gitlab&style=flat)](https://gitlab.com/abdallaamin)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/abdallaamin)
-[![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-blue?logo=dev.to&style=flat)](https://dev.to/gmarokov)
-[![Outlook Badge](https://img.shields.io/badge/-georgi.marokov-c14438?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:abdo.faozy@gmail.com)](mailto:abdo.faozy@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/gmarokov?label=Follow&style=social)](https://github.com/abdallaamin/?tab=follow) 
+[![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-blue?logo=dev.to&style=flat)](https://dev.to/abdallaamin)
+[![GitHub followers](https://img.shields.io/github/followers/abdallaamin?label=Follow&style=social)](https://github.com/abdallaamin/?tab=follow) 
   
-- 🔭 I’m currently working on [_VOIS (vodafone intellegent solution](https://www.vodafone.com/))  
-  
+- 🔭 I’m currently working as softwareEngineer @[_VOIS (vodafone intellegent solution](https://www.vodafone.com/))  
 - 👨‍💻 All of my projects are available at [https://abdallaamin.com](https://abdallaamin)  
-  
-- 📝 I regularly write articles on [https://dev.to/abdallaamin](https://dev.to/abdallaamin)  
-  
-- 📫 How to reach me **abdo.faozy@gmail.com** 
+- 📝 I regularly write articles on [https://abdallaamin.com/blog](https://abdallaamin.com/blog)  
+- 📫 How to reach me **abdo.faozy@gmail.com**
+- 💬 would love to collaborate on anything.
+- 🏆 Contributing to open source projects.
+- 📧 Love to discuss Tech.
+- 🌟 Love Cooking, Discussing Technology and Vaccations.
 
 
 
@@ -25,12 +23,5 @@ Want to know more about me? [Check out my portfolio.](https://abdallaamin.com)
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 

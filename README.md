@@ -3,7 +3,7 @@
 
 Want to know more about me? [Check out my portfolio.](https://abdallaamin.com)
 
-#### 💻 you can find me in the web on 
+### 💻 you can find me in the web on 
 
 ![PatricNox profile view count](https://komarev.com/ghpvc/?username=abdallaamin&color=brightgreen)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/abdallaamin)

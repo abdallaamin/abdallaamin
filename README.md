@@ -3,6 +3,8 @@
 
 Want to know more about me? [Check out my portfolio.](https://abdallaamin.com)
 
+## 💻 you can find me in the web on 
+![PatricNox profile view count](https://komarev.com/ghpvc/?username=abdallaamin&color=brightgreen)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/abdallaamin)
 [![Dev.to Badge](https://img.shields.io/badge/Dev.to-Profile-blue?logo=dev.to&style=flat)](https://dev.to/abdallaamin)
 [![GitHub followers](https://img.shields.io/github/followers/abdallaamin?label=Follow&style=social)](https://github.com/abdallaamin/?tab=follow) 
@@ -11,6 +13,7 @@ Want to know more about me? [Check out my portfolio.](https://abdallaamin.com)
 - 👨‍💻 All of my projects are available at [https://abdallaamin.com](https://abdallaamin)  
 - 📝 I regularly write articles on [https://abdallaamin.com/blog](https://abdallaamin.com/blog)  
 - 📫 How to reach me **abdo.faozy@gmail.com**
+- ⚙️ I use daily: .js , .ts , .nextjs 
 - 💬 would love to collaborate on anything.
 - 🏆 Contributing to open source projects.
 - 📧 Love to discuss Tech.
@@ -45,8 +48,11 @@ Want to know more about me? [Check out my portfolio.](https://abdallaamin.com)
     </details>
 </p>
 
-## 📈 My GitHub Stats
+# Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdallaamin&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
+
+## 📈 My GitHub Stats
 <a href="https://github.com/abdallaamin">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=abdallaamin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Georgi's GitHub Stats" />
 </a>
@@ -54,8 +60,7 @@ Want to know more about me? [Check out my portfolio.](https://abdallaamin.com)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallaamin&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-# Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdallaamin&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
